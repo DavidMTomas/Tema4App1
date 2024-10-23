@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tema4App1</string>
+    <string name="game">Juego</string>
+    <string name="start">Iniciar juego</string>
+    <string name="settings">Opciones</string>
+    <string name="ranking">Listado</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Salir</string>
+    <string name="action_settings">Opciones de configuracion</string>
+</resources>
